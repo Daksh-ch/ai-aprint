@@ -1,0 +1,16 @@
+{
+  "employee": [
+    {
+    "name": "John",
+    "age": 30,
+    "city": "New York",
+    "skills": ["JavaScript", "Python"]
+  },
+  {
+    "name": "Alan",
+    "age": 35,
+    "city": "Chicago",
+    "skills": ["JavaScript", "Python", "Rust"]
+  }
+  ]
+}
