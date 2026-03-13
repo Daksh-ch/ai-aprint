@@ -6,6 +6,7 @@ products = [
 total_inventory = 0
 for product in products:
     print(product['name'] + " - " + str(product['price']) + " - stock:" + str(product['stock']))
+    print(f"product['name] - {product['price']} - stock: {product['stock']}")
     total_inventory += product['price'] * product['stock']
 
 print("Total Inventory Value: ", total_inventory)

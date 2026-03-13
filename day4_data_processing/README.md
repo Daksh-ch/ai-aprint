@@ -7,11 +7,15 @@ Concepts practiced:
 - Data processing
 
 Projects:
-1. Student marks analyzer
-2. Inventory tracker
 
-Instructions:
+1. Student Marks Analyzer
+   - Prints all students and their marks.
+
+2. Inventory Tracker
+   - Prints product details.
+   - Calculates total inventory value.
+
+Instructions to run:
+
 python student_analysis.py
-&
 python inventory_tracker.py
-
